@@ -1,14 +1,16 @@
 .column {
   float: left;
-  width: 30%;
+  width: 21%;
   padding: 30px;
-  margin: 30;
+  margin: 20px;
+  text-align: center;
 }
 
-img {
+.column img {
   width: 350px;
   height: 400px;
   border: 20px solid white;
+  margin-left: 30px;
 }
 
 h1 {
@@ -18,7 +20,6 @@ h1 {
   color: rgb(0,50, 255);
 }
 h2 {
-  text-align: center;
   font-family: sans-serif;
   font-size: 25px;
 }
@@ -39,11 +40,8 @@ body{
   background-repeat: no-repeat;
   background-size: cover;
 }
-.intro {
-  text-align: center;
-}
+
 h3{
-  text-align: center;
   font-size: 23px;
 }
 .column2 {
@@ -51,5 +49,15 @@ h3{
   width: 300px;
   padding: 20px;
   margin: 5px;
+}
+.social img{
+  width: 8%;
 
+}
+.social{
+  float: right;
+  width: 15%;
+}
+.intro{
+  text-align: center;
 }
