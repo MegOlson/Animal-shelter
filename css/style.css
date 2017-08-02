@@ -1,0 +1,55 @@
+.column {
+  float: left;
+  width: 30%;
+  padding: 30px;
+  margin: 30;
+}
+
+img {
+  width: 350px;
+  height: 400px;
+  border: 20px solid white;
+}
+
+h1 {
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 50px;
+  color: rgb(0,50, 255);
+}
+h2 {
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 25px;
+}
+.contact{
+  float: left;
+  font-size: 20px;
+  border: 5px solid white;
+  padding: 10px;
+  background-image: url("sky.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-left: 30%;
+  float: left;
+  width:30%;
+  }
+body{
+  background-image: url("https://s-media-cache-ak0.pinimg.com/originals/e3/42/0d/e3420d96c7b3ae359dc18699d52f9f22.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.intro {
+  text-align: center;
+}
+h3{
+  text-align: center;
+  font-size: 23px;
+}
+.column2 {
+  float: left;
+  width: 300px;
+  padding: 20px;
+  margin: 5px;
+
+}
